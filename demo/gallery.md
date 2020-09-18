@@ -73,7 +73,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Meads & other family trees](http://ft.meads.co.nz)
 * [My Norfolk Ancestors](https://mynorfolkancestors.net) - Custom theme.
 * [Orchard Family](http://www.ourkin.org)
-* [Our Family Jiapu](http://joeclan.com) / [家譜/家谱](http://joeclan.dazupu.net) US site runs on a Raspberry Pi 2B.  The Chinese site is a mirror behind the Great Firewall.
+* [Our Family Jiapu / 家譜/家谱] (https://familyjiapu.com) My site runs on a Raspberry Pi 4 from a home ISP  Standard theme showing best practices using Chinese on a mainly English language site.
 * [Our family tree](http://thespiegels.com/ourtree)
 * [Peters-Paige family genealogy](http://genealogy.skeeter-net.net)
 * [proavitus - Schmidt (Bühler / Hauer / Schwab)](https://www.proavitus.de)
